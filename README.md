@@ -29,7 +29,7 @@ If this were C++ Qt, I would do it with orthodox way such as using `QStandardIte
 
 I'm still working on it.
 
-Still a lot of things need to be fixed or taken care of such as inconsistent order, database feature.
+Still a lot of things need to be fixed or taken care of such as inconsistent order of key mapping list, database feature.
 
 ## See Also
 * <a href="https://doc.qt.io/qtforpython/examples/example_widgets_itemviews_stardelegate.html">Star Delegate Example</a> - nice article to read if you want to make QTableWidget/QTableView with certain form included complicated designed widget inside each cells.
