@@ -29,7 +29,7 @@ If this were C++ Qt, I would do it with orthodox way such as using `QStandardIte
 
 I'm still working on it.
 
-Still a lot of things need to be fixed or taken care of such as inconsistent order of key mapping list, database feature.
+Still a lot of things need to be fixed or taken care of such as inconsistent order of key mapping list, database feature, make this enable to use anywhere.
 
 btw, You see that second column's cell? Looks ugly, right? Sadly, I don't even care about style anymore. The style took a lot of time and make me so dizzy that i can't focus on the real goal.
 
